@@ -117,7 +117,7 @@ Based on the data, the following roadmap is proposed to Olist leadership:
     pip install pandas numpy matplotlib seaborn
     ```
 3.  Ensure the dataset files (`orders.csv`, `items.csv`, etc.) are in the root directory.
-4.  Run the Jupyter Notebook: `End_to_End_Supply_Chain_Project.ipynb`.
+4.  Run the Jupyter Notebook: `Olist_Supply_Chain_Optimization.ipynb`.
 
 ---
 
