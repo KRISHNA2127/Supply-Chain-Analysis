@@ -84,8 +84,6 @@ The analysis utilizes the **Brazilian E-Commerce Public Dataset by Olist** (Rela
 
 ## 📊 Key Results & Visuals
 
-*(Note: Add your generated screenshots here)*
-
 1.  **The Inequality of Logistics:** The Heatmap revealed that Sao Paulo is an overloaded hub, causing delays for 25% of the country.
 2.  **The Churn Crisis:** RFM analysis showed less than 1% of customers are "Champions/VIPs."
 3.  **The Cost of Delay:** Customers waiting >15 days are almost guaranteed to leave a detractor score (<3 stars).
